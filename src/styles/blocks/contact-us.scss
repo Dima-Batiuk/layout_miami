@@ -185,6 +185,7 @@
 }
 
 .action {
+  transition: border 0.2s ease;
   &:hover {
     border: 2px solid #ccd0e0;
   }
